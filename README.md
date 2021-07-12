@@ -6,4 +6,4 @@ uygulamasını indirip devap etmesi önerisini vermesini sağlayan bir middlewar
 3. Kullanıcı siteye giriş yapmadan önce site kullanımı ile ilgili bilgi içerik ekranı gösterilebilir.
 
 
-2. middleware önerisi seçilerek kodlar güncellenmiştir. :)
+      ***İkinci middleware önerisi seçilerek kodlar güncellenmiştir. :)
