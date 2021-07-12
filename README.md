@@ -4,3 +4,6 @@
 uygulamasını indirip devap etmesi önerisini vermesini sağlayan bir middleware olabilir.
 2. Kullanıcı girişi yapıldıktan sonra sitedeki kampanyaları gösteren bir ekran çıkabilir.
 3. Kullanıcı siteye giriş yapmadan önce site kullanımı ile ilgili bilgi içerik ekranı gösterilebilir.
+
+
+2. middleware önerisi seçilerek kodlar güncellenmiştir. :)
