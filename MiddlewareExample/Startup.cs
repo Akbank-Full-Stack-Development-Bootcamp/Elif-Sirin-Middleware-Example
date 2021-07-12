@@ -41,7 +41,7 @@ namespace MiddlewareExample
 
             app.UseRouting();
 
-            // 3.Kullanıcı siteye giriş yapmadan önce site kullanımı ile ilgili bilgi içerik ekranı gösterilebilir.
+            // 2.Kullanıcı siteye giriş yapmadan önce site kullanımı ile ilgili bilgi içerik ekranı gösterilebilir.
             //Kod güncellenmiştir.
             app.Map("/info", builder =>
             {
